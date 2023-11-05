@@ -1,0 +1,159 @@
+body{
+   background-color: white;
+   font-family: 'CustomFont', sans-serif;
+   color: white;
+}
+#first-box-first-text h3, #first-box-second-text h2{
+    text-align: center;
+}
+
+.attribution {
+    font-size: 11px; text-align: center; 
+}
+.attribution a {
+    color: hsl(228, 45%, 44%); 
+}
+.big-number {
+    font-size: 45px; /* Adjust the font size to your preference */
+    font-weight: bold; /* You can also make it bold if needed */
+}
+.boxes {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.first-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+.first-box{
+    background: linear-gradient(to bottom, #4f52d5dd, #1340d6 );
+}
+
+
+.second-box {
+    /* flex: 1; */
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 20px;
+    /* margin: 10px; */
+}
+.first-box, .second-box {
+    width: 300px; 
+    height: 450px;
+  }
+.second-box h2{
+    color: black;
+}
+.circle {
+    width: 150px; /* Adjust the width and height to define the circle's size */
+    height: 150px;
+    border-radius: 50%; /* Create a circular shape */
+    background: linear-gradient(to bottom, #4f52d5dd, #1340d6 );
+    text-align: center; /* Center the content horizontally */
+    display: flex;
+    justify-content: center; /* Center the content vertically */
+    align-items: center;
+    color: white; /* Text color inside the circle */
+    font-weight: bold; /* Font weight for text */
+}
+
+
+
+
+#icon{
+    width: 20px;
+    height: 20px;
+}
+.flex-box1 .flex-box2 .flex-box3 .first-box4{
+    display: flex;
+    padding: 7px;
+}
+.flex-box1{
+    background-color: rgba(236, 204, 204, 0.273);
+    border-radius: 5px;
+    margin-bottom: 10px;
+
+}
+.flex-box2{
+    background-color: rgb(238, 238, 232);
+    border-radius: 5px;
+    margin-bottom: 10px;
+
+}
+.flex-box3{
+    background-color: rgb(225, 232, 225);
+    border-radius: 5px;
+    margin-bottom: 10px;
+
+}
+.flex-box4{
+    background-color: rgb(229, 229, 236);
+    border-radius: 5px;
+    margin-bottom: 10px;
+
+
+}
+.flex-box1 h4{
+    color: rgb(243, 107, 107);
+}
+.flex-box2 h4{
+    color: rgb(182, 182, 24);
+}
+.flex-box3 h4{
+    color: rgb(90, 186, 90);
+}
+.flex-box4 h4{
+    color: blue;
+}
+.box-content{
+    display: flex;
+    
+}
+.box-content h4{
+    flex: 10px;
+    margin: 20px;
+}
+.box-content p{
+    margin-top: 10px;
+    padding: 10px;
+
+}
+.box-content img{
+    margin: 20px;
+
+}
+@font-face {
+    font-family: 'CustomFont';
+    src: url(./assets/fonts/HankenGrotesk-VariableFont_wght.ttf)format(ttf);
+}
+.submit{
+    background-color: #31445ce4;
+    color: white;
+    margin-top: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    width: 300px;
+    height: 50px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+.submit:hover{
+    background-color: #0056b3;
+}
+.first-box-second-text p{
+    text-align: center;
+}
