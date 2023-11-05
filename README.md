@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](http://127.0.0.1:5500/index.html)
+- Live Site URL: [Add live site URL here](https://estheraiyeola.github.io/results-summary-component-hub/)
 
 
 ### Built with
@@ -52,10 +52,9 @@ I would want to make this website responsive in the future.
 
 ## Author
 
-- Website - [Esther Aiyeola](https://www.your-site.com)
 - Frontend Mentor - [@Estheraiyeola](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@esther-aiyeola](https://www.twitter.com/yourusername)
-- GitHub - [@Estheraiyeola](https://www.twitter.com/yourusername)
+- Twitter - [@esther-aiyeola](https://twitter.com/esther_aiyeola)
+- GitHub - [@Estheraiyeola](https://github.com/Estheraiyeola)
 
 
 
