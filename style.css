@@ -14,8 +14,8 @@ body{
     color: hsl(228, 45%, 44%); 
 }
 .big-number {
-    font-size: 45px; /* Adjust the font size to your preference */
-    font-weight: bold; /* You can also make it bold if needed */
+    font-size: 45px; 
+    font-weight: bold; 
 }
 .boxes {
     display: flex;
@@ -56,16 +56,16 @@ body{
     color: black;
 }
 .circle {
-    width: 150px; /* Adjust the width and height to define the circle's size */
+    width: 150px; 
     height: 150px;
-    border-radius: 50%; /* Create a circular shape */
+    border-radius: 50%; 
     background: linear-gradient(to bottom, #4f52d5dd, #1340d6 );
-    text-align: center; /* Center the content horizontally */
+    text-align: center;
     display: flex;
-    justify-content: center; /* Center the content vertically */
+    justify-content: center; 
     align-items: center;
-    color: white; /* Text color inside the circle */
-    font-weight: bold; /* Font weight for text */
+    color: white; 
+    font-weight: bold; 
 }
 
 
